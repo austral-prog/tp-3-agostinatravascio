@@ -6,6 +6,7 @@ def slice_simple():
 
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_slice_simple_test.py` o `python tp3_slice_simple_test.py`
+    txt = "Awesome" 
     print(txt[0:3].lower())
     print(txt[2:5])
     print(txt.lower())
