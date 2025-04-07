@@ -16,3 +16,6 @@ class TP3SliceSimpleTestCases(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+       print(txt[0:3].lower())
+       print(txt[2:5])
+       print(txt.lower())
