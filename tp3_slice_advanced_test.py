@@ -18,6 +18,4 @@ class TP3SliceAdvancedTestCases(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-          print(txt[4::2])
-
-          print(txt[4::2])
+       
